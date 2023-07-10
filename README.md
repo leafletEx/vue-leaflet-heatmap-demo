@@ -1,7 +1,3 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+# 解决 ImageData 错误
+## TypeError: Cannot assign to read only property data' of object #<ImageData>'
+![image](https://github.com/vaebe/vue-leaflet-heatmap-demo/assets/52314078/c61fe3e2-4e0b-4cc3-93a1-4f2b5dd4576b)
